@@ -18,8 +18,8 @@ characters:
 
         height: 167
         weight: 50
-        hair color: 黒 
-        hair style: おとなしげな
+        hair color: ダークブラウン
+        hair style: 元気のいい
         eyes: 黒目
         3 size:
           bust: 
@@ -58,3 +58,424 @@ characters:
             episodes:
               - 
       etc:
+
+  - name: リック
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: カーマイン
+        hair style: 短髪
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
+  - name: レナ
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: アクアブルー
+        hair style: ロングヘア
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
+  - name: セシル
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: 
+        hair style: 
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
+  - name: エリス
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: シャローピンク
+        hair style: ショートヘア
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
+  - name: 
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: 
+        hair style: 
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
+  - name: 
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: 
+        hair style: 
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
+  - name: 
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: 
+        hair style: 
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
