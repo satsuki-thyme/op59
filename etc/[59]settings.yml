@@ -59,7 +59,67 @@ characters:
               - 
       etc:
 
-  - name: リック
+  - name: テリル
+    characteristics:
+      name:
+        formal name: 
+        nick name: 
+        popular name: 
+        origin of first name: 思い付き
+        origin of family name: 思い付き
+        origin of nick name: 思い付き
+        origin of popupar name: 思い付き
+      inherent:
+        race: 
+        gender: 
+        age: 
+      physical:
+        outline: |
+
+        height: 
+        weight: 
+        hair color: 
+        hair style: 
+        eyes: 
+        3 size:
+          bust: 
+          west: 
+          hip: 
+      personality:
+        outline: |
+          
+        features:
+          - 
+          - 
+          - 
+          - 
+        trauma: |
+
+      staus:
+        job: 
+      history:
+        parents:
+          father: 
+            grand father:
+              - 
+            grand mother:
+              - 
+          mother: 
+            grand father:
+              - 
+            grand mother:
+              - 
+        birth: 
+        growing environment: |
+
+        contacts:
+          - name: 
+            relationship: 
+            episodes:
+              - 
+      etc:
+
+  - name: アレック
     characteristics:
       name:
         formal name: 
