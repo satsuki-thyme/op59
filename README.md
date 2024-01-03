@@ -16,4 +16,5 @@
 - etc/[59]memo.md:      メモ
 
 ### 思考ノート
-- thinking-notes/[59]thinking-notes-001.md: 第1話の計画
+- thinking-notes/[59]thinking-notes-001.md: 何かの計画（リザーブ）
+- thinking-notes/[59]thinking-notes-002.md: 第2話の計画

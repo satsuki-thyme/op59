@@ -1,6 +1,8 @@
 characters:
   - name: ネス
     characteristics:
+      overview: |
+        優しく高潔で、それを実現させる力を持っている
       name:
         formal name: ネス
         nick name: ネス
@@ -61,6 +63,8 @@ characters:
 
   - name: テリル
     characteristics:
+      overview: |
+        
       name:
         formal name: 
         nick name: 
@@ -121,6 +125,8 @@ characters:
 
   - name: アレック
     characteristics:
+      overview: |
+        
       name:
         formal name: 
         nick name: 
@@ -181,6 +187,8 @@ characters:
 
   - name: レナ
     characteristics:
+      overview: |
+        
       name:
         formal name: 
         nick name: 
@@ -241,6 +249,8 @@ characters:
 
   - name: セシル
     characteristics:
+      overview: |
+        
       name:
         formal name: 
         nick name: 
@@ -301,6 +311,8 @@ characters:
 
   - name: エリス
     characteristics:
+      overview: |
+        
       name:
         formal name: 
         nick name: 
@@ -361,6 +373,8 @@ characters:
 
   - name: 
     characteristics:
+      overview: |
+        
       name:
         formal name: 
         nick name: 
@@ -421,6 +435,8 @@ characters:
 
   - name: 
     characteristics:
+      overview: |
+        
       name:
         formal name: 
         nick name: 
@@ -481,6 +497,8 @@ characters:
 
   - name: 
     characteristics:
+      overview: |
+        
       name:
         formal name: 
         nick name: 
