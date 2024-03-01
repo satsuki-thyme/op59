@@ -9,7 +9,7 @@
 - plot/[59]plot-001.yml: プロット 第1話
 - plot/[59]plot-002.yml: プロット 第2話
 
-### etc.
+### その他
 - etc/![59]todo.md:     すること
 - etc/[59]conf.yml:     メタ設定
 - etc/[59]settings.yml: 設定
